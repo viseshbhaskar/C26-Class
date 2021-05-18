@@ -1,2 +1,2 @@
-# C25-Class
-How to add background without sprite, inheritance
+# p5.play-boilerplate
+Boiler plate for p5.play
